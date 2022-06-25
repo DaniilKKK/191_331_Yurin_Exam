@@ -10,7 +10,7 @@ ApplicationWindow {
     width: 640
     height: 480
     visible: true
-    title: qsTr("Лабораторная работа №2 (Поляков В.А., гр. 191-351)")
+    title: qsTr("Экзамен Юрин Даниил 191-331")
 
     property int recordId: -1
     property int isPassword: -1
